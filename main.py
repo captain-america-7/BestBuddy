@@ -16,7 +16,7 @@ root = Tk()
 root.title("BookBuddy")
 root.minsize(width=600,height=600)
 root.geometry("600x500")
-# Take n greater than 0.25 and less than 5
+# Take n greater than 0.25 and less than 4
 same=True
 n=0.25
 # Adding a background image
